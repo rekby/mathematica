@@ -5,7 +5,9 @@ BeginPackage["FindFacesWithImageRotations`"];
 
 
 FindFacesWithImageRotations::usage = 
-"Use as FaceRecognize, but the function rotate the image for recognize more faces"
+"FindFacesWithImageRotations[img]
+FindFacesWithImageRotations[img, prop] 
+Use as FaceRecognize, but the function rotate the image for recognize more faces"
 
 
 Begin["`Private`"];
